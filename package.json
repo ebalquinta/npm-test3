@@ -4,8 +4,8 @@
     "description": "testeo npm",
     "main": "index.js",
     "scripts": {
-        "prueba": "node asciiArtTest.js hola todo bien",
-        "prueba2": "node asciiDataTableTest.js",
+        "prueba": "node asciiChartTest.js hola todo bien",
+        "prueba2": "node asciiDataTableTest.js X Y A B C D",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "ezequielBalquinta",
